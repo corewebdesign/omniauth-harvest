@@ -1,5 +1,7 @@
 # OmniAuth Harvest
 
+[![Build Status](https://secure.travis-ci.org/corewebdesign/omniauth-harvest.png?branch=master)](http://travis-ci.org/corewebdesign/omniauth-harvest)
+
 Harvest OAuth2 Strategy for OmniAuth 1.0. Largely inspired by Shopify's OmniAuth strategy: https://github.com/Shopify/omniauth-shopify-oauth2
 
 ## Installing
